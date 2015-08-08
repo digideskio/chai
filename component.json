@@ -1,0 +1,20 @@
+{
+  "name": "chai",
+  "description": "Assertion framework",
+  "author": "",
+  "repo": "jonnor/chai",
+  "version": "3.2.0",
+  "main": "chai.js",
+  "keywords": [],
+  "dependencies": {
+  },
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ],
+  "scripts": [
+    "chai.js"
+  ],
+  "json": [
+    "component.json"
+  ]
+}
